@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-banner{
+    background-color: #FFF9F4;
+}
+.title{
+    font-size: 70px;
+    font-weight:900;
+    color: rgb(34, 31, 31);
+}
+.first-word{
+    color:#FA804C;
+}
+
+/* casuak shoe*/
+
+.ct{
+    font-size: 24px;
+    font-weight: bold;
+}
+.bg-offwhite{
+    background-color: rgb(241, 241, 241);
+    
+}
+
+.st{
+    font-weight: bold;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
